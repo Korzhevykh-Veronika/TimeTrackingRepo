@@ -1,0 +1,22 @@
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.deps.json
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.pdb
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.AssemblyInfoInputs.cache
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.AssemblyInfo.cs
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\refint\VeronikaKorzhevykh.TimeTrackingTask.Core.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.pdb
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\ref\VeronikaKorzhevykh.TimeTrackingTask.Core.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.deps.json
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.AssemblyInfoInputs.cache
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.AssemblyInfo.cs
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\refint\VeronikaKorzhevykh.TimeTrackingTask.Core.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Core\obj\Debug\net6.0\ref\VeronikaKorzhevykh.TimeTrackingTask.Core.dll

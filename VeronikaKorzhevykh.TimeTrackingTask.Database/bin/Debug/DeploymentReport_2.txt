@@ -1,0 +1,47 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Projects]
+       [dbo].[WorkTimes]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Projects].[CustomerName] is being dropped, data loss could occur.
+       The column [dbo].[Projects].[EndDate] is being dropped, data loss could occur.
+       The column [dbo].[Projects].[StartDate] is being dropped, data loss could occur.
+       The type for column Id in table [dbo].[Projects] is currently  INT IDENTITY (1, 1) NOT NULL but is being changed to 
+         UNIQUEIDENTIFIER NOT NULL. There is no implicit or explicit conversion.
+       The column [dbo].[WorkTimes].[EmployeeId] is being dropped, data loss could occur.
+       The column [dbo].[WorkTimes].[UserId] on table [dbo].[WorkTimes] must be added, but the column has no default value and
+         does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+       The type for column Id in table [dbo].[WorkTimes] is currently  INT IDENTITY (1, 1) NOT NULL but is being changed to 
+         UNIQUEIDENTIFIER NOT NULL. There is no implicit or explicit conversion.
+       The type for column ProjectId in table [dbo].[WorkTimes] is currently  INT NOT NULL but is being changed to 
+         UNIQUEIDENTIFIER NOT NULL. There is no implicit or explicit conversion.
+
+** User actions
+     Drop
+       [dbo].[FK_WorkTimes_Employees] (Foreign Key)
+     Recreate table
+       [dbo].[Projects] (Table)
+       [dbo].[WorkTimes] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_WorkTimes_Projects] (Foreign Key)
+     Create
+       [dbo].[FK_WorkTimes_Projects] (Foreign Key)
+
+The column [dbo].[Projects].[CustomerName] is being dropped, data loss could occur.
+The column [dbo].[Projects].[EndDate] is being dropped, data loss could occur.
+The column [dbo].[Projects].[StartDate] is being dropped, data loss could occur.
+The type for column Id in table [dbo].[Projects] is currently  INT IDENTITY (1, 1) NOT NULL but is being changed to  UNIQUEIDENTIFIER NOT NULL. There is no implicit or explicit conversion.
+The column [dbo].[WorkTimes].[EmployeeId] is being dropped, data loss could occur.
+The column [dbo].[WorkTimes].[UserId] on table [dbo].[WorkTimes] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column ClockInTime on table [dbo].[WorkTimes] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The type for column Id in table [dbo].[WorkTimes] is currently  INT IDENTITY (1, 1) NOT NULL but is being changed to  UNIQUEIDENTIFIER NOT NULL. There is no implicit or explicit conversion.
+The type for column ProjectId in table [dbo].[WorkTimes] is currently  INT NOT NULL but is being changed to  UNIQUEIDENTIFIER NOT NULL. There is no implicit or explicit conversion.
+

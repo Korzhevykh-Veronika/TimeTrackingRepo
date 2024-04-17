@@ -1,0 +1,45 @@
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.deps.json
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.pdb
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.pdb
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.csproj.AssemblyReference.cache
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.AssemblyInfoInputs.cache
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.AssemblyInfo.cs
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.csproj.CopyComplete
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\refint\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.pdb
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\ref\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.deps.json
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.csproj.AssemblyReference.cache
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.AssemblyInfoInputs.cache
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.AssemblyInfo.cs
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\Veronika.A705E14E.Up2Date
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\refint\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DAL\obj\Debug\net6.0\ref\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.deps.json
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.csproj.AssemblyReference.cache
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.AssemblyInfoInputs.cache
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.AssemblyInfo.cs
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\obj\Debug\net6.0\Veronika.A705E14E.Up2Date
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\obj\Debug\net6.0\refint\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.DataAccess\obj\Debug\net6.0\ref\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll

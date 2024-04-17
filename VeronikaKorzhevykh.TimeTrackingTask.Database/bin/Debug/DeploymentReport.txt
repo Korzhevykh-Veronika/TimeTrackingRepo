@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Employees] (Table)
+       [dbo].[Projects] (Table)
+       [dbo].[WorkTimes] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Employees] (Default Constraint)
+       [dbo].[FK_WorkTimes_Employees] (Foreign Key)
+       [dbo].[FK_WorkTimes_Projects] (Foreign Key)
+       [dbo].[CK_Employees_Position] (Check Constraint)
+
+** Supporting actions

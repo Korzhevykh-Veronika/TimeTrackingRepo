@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [dbo].[CK_Employees_Position] (Check Constraint)
+     Alter
+       [dbo].[WorkTimes] (Table)
+     Create
+       Unique Constraint: unnamed constraint on [dbo].[Employees] (Unique Constraint)
+       [dbo].[CK_Employees_Position] (Check Constraint)
+
+** Supporting actions

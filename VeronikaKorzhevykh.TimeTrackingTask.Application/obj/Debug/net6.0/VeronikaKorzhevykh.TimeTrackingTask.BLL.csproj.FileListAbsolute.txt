@@ -1,0 +1,34 @@
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.deps.json
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.pdb
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.pdb
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.pdb
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.csproj.AssemblyReference.cache
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.AssemblyInfoInputs.cache
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.AssemblyInfo.cs
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.csproj.CoreCompileInputs.cache
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.csproj.CopyComplete
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\refint\VeronikaKorzhevykh.TimeTrackingTask.BLL.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.pdb
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\ref\VeronikaKorzhevykh.TimeTrackingTask.BLL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.deps.json
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.Core.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\bin\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.DAL.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.csproj.AssemblyReference.cache
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.AssemblyInfoInputs.cache
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.AssemblyInfo.cs
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.csproj.CoreCompileInputs.cache
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\Veronika.B230FAC8.Up2Date
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\refint\VeronikaKorzhevykh.TimeTrackingTask.BLL.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\VeronikaKorzhevykh.TimeTrackingTask.BLL.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.BLL\obj\Debug\net6.0\ref\VeronikaKorzhevykh.TimeTrackingTask.BLL.dll

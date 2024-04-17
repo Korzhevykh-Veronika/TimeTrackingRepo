@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VeronikaKorzhevykh.TimeTrackingTask.Web.props" />
+</Project>

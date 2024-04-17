@@ -1,0 +1,26 @@
+C:\Calc\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\bin\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.dacpac
+C:\Calc\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\bin\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.dll
+C:\Calc\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\bin\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.pdb
+C:\Calc\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.sqlproj.AssemblyReference.cache
+C:\Calc\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.dll
+C:\Calc\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.pdb
+C:\Calc\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\Model.xml
+C:\Calc\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\refactor.xml
+C:\Calc\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\postdeploy.sql
+C:\Calc\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\predeploy.sql
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\bin\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.dacpac
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\bin\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\bin\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.pdb
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.sqlproj.AssemblyReference.cache
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\Model.xml
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\refactor.xml
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\postdeploy.sql
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\predeploy.sql
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.dll
+C:\Users\slavy\Downloads\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\bin\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.dacpac
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\bin\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\bin\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.pdb
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.sqlproj.AssemblyReference.cache
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.dll
+C:\Users\vkorz\OneDrive - SoftServe, Inc\Documents\GitHub\VeronikaKorzhevykh.TimeTrackingTask\VeronikaKorzhevykh.TimeTrackingTask.Database\obj\Debug\VeronikaKorzhevykh.TimeTrackingTask.Database.pdb

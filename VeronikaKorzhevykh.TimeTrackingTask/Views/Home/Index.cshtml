@@ -1,0 +1,32 @@
+﻿@using VeronikaKorzhevykh.TimeTrackingTask.ViewModels
+@model WorkTimeViewModel
+
+<div class="container">
+    <div class="row mt-4">
+        @if (Model.Projects.Count() == 0) { <h1>You must create some project first!</h1> }
+        else if (Model.OpenWorkTime is null)
+        {
+
+            <div class="col-md-6">
+                <form id="clockInForm" action="/Home/ClockIn" method="post">
+                    <div class="form-group pb-3">
+                        <label for="projectId">Project title</label>
+                        @Html.DropDownList("projectId", Model.Projects, new { @class = "form-select" })
+                    </div>
+
+                    <button id="clockInBtn" type="submit" class="btn btn-primary btn-lg btn-block">Clock In</button>
+                </form>
+            </div>
+        }
+        else
+        {
+            <h1>You are working with @Model.OpenWorkTime.Project.Title since @Model.OpenWorkTime.ClockInTime</h1>
+            <div class="col-md-6">
+                <form id="clockOutForm" action="/Home/ClockOut" method="post">
+
+                    <button id="clockInBtn" type="submit" class="btn btn-primary btn-lg btn-danger">Clock out</button>
+                </form>
+            </div>
+        }
+    </div>
+</div>
